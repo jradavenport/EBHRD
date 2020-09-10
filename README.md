@@ -1,6 +1,9 @@
 # EBHRD
 The HR Diagram of Eclipsing Binary Stars
 
+For the QuadTree histogram 2D code, see [THIS](https://github.com/jradavenport/qthist2d) repo!
+
+
 ## Background
 Big time domain surveys will find [LOTS](https://arxiv.org/abs/1105.6011) of eclipsing binaries.
 
